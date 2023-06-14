@@ -1,0 +1,13 @@
+F:\đồ án\atbmtt\atbmtt\bin\Debug\atbmtt.exe.config
+F:\đồ án\atbmtt\atbmtt\bin\Debug\atbmtt.exe
+F:\đồ án\atbmtt\atbmtt\bin\Debug\atbmtt.pdb
+F:\đồ án\atbmtt\atbmtt\obj\Debug\atbmtt.csproj.AssemblyReference.cache
+F:\đồ án\atbmtt\atbmtt\obj\Debug\atbmtt.csproj.SuggestedBindingRedirects.cache
+F:\đồ án\atbmtt\atbmtt\obj\Debug\atbmtt.Properties.Resources.resources
+F:\đồ án\atbmtt\atbmtt\obj\Debug\atbmtt.csproj.GenerateResource.cache
+F:\đồ án\atbmtt\atbmtt\obj\Debug\atbmtt.csproj.CoreCompileInputs.cache
+F:\đồ án\atbmtt\atbmtt\obj\Debug\atbmtt.exe
+F:\đồ án\atbmtt\atbmtt\obj\Debug\atbmtt.pdb
+F:\đồ án\atbmtt\atbmtt\obj\Debug\atbmtt.Form1.resources
+F:\đồ án\atbmtt\atbmtt\obj\Debug\atbmtt.pass.resources
+F:\đồ án\atbmtt\atbmtt\obj\Debug\atbmtt.passdecryption.resources
